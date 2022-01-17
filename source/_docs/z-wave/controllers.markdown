@@ -24,7 +24,7 @@ You need to have a compatible Z-Wave stick or module installed. The following de
   - Aeotec Z-Pi 7 (700 series)
   - ZWave.me Razberry Board (500 series)
 
-If you are just starting out, we recommend that you purchase a 700 series controller to take advantage of the latest improvements. At the very least, you should purchase a [Z-Wave Plus](https://z-wavealliance.org/z-wave_plus_certification/) controller.
+If you are just starting out, you should purchase a [Z-Wave Plus](https://z-wavealliance.org/z-wave_plus_certification/) controller. At the moment, we *do not* recommend purchasing a 700 series controller because of a current bug in those controllers' firmware. 
 
 <div class='note'>
   Not all of the above devices are supported by the deprecated Z-Wave integration.
